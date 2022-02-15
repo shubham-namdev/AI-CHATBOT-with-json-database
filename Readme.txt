@@ -24,9 +24,9 @@ os                        -- os modification
 Steps :
 
 1) Run training.py file
-2) Run chat.py file 
+2) Run main_gui.py 
 
-After modification in json file :
+After modification in json file\ adding data :
 1) Run training.py file
 
 ***************************************************************************************************************************************************************************************************
